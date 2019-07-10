@@ -1,0 +1,4 @@
+Driver name: 3430A4     
+Free space: 27929 KB
+Usable storage: 34902 KB
+Cluster size: 1 sector(s) / 512 Bytes
